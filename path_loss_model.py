@@ -1,9 +1,6 @@
-#!/usr/bin/env python3
-# coding: utf-8
+
 """
-Google Colab-uyumlu *path_loss_model.py*
 ========================================
-Bu sürüm:
  - Geometrik mesafe ve Timing Advance’dan hesaplanan mesafeyi ortak kullanır.
  - Tek eğim veya çift eğim (LOS/NLOS) modelini veri dengesine göre otomatik seçer.
  - 3 farklı ağırlıklandırma (none, 1/D, 1/√D) × 4 Huber f_scale (0.5, 1, 2, 5) grid-search yapar.
