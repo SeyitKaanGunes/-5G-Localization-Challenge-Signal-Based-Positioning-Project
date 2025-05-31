@@ -1,4 +1,4 @@
-5G Signal-Based Localization – Path Loss & Ray Tracing
+## 5G Signal-Based Localization – Path Loss & Ray Tracing
 
 This repository contains two separate but related simulations used in a 5G signal-based localization project:
 
@@ -9,7 +9,7 @@ This repository contains two separate but related simulations used in a 5G signa
 
 ---
 
-## path_loss_model.py
+## Path_loss_model.py
 
 An adaptive path-loss model that:
 - Uses both geometric distance and Timing Advance (TA) data
